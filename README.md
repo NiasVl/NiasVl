@@ -97,14 +97,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
     align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 5px;"
+    style="padding-right: 5px !important;"
     src="https://github-readme-stats.vercel.app/api?username=NiasVl&show_icons=true&theme=highcontrast&include_all_commits=true"
     />
 
 <img 
     align="left"
     alt="GitHub Stats"
-    height="180"
-    width="fit-content"
+    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiasVl&theme=highcontrast&layout=compact&custom-title=Tecnologias&langs_count=9"
     />
