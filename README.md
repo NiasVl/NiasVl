@@ -104,6 +104,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 <img 
     align="left"
     alt="GitHub Stats"
-    height="180"
+    height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiasVl&theme=highcontrast&layout=compact&custom-title=Tecnologias&langs_count=9"
     />
