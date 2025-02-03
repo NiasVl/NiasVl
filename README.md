@@ -97,7 +97,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
     align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 10px;"
+    style="padding-right: 5px;"
     src="https://github-readme-stats.vercel.app/api?username=NiasVl&show_icons=true&theme=highcontrast&include_all_commits=true"
     />
 
@@ -105,5 +105,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
     align="left"
     alt="GitHub Stats"
     height="200"
+    width="fit-content"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiasVl&theme=highcontrast&layout=compact&custom-title=Tecnologias&langs_count=9"
     />
