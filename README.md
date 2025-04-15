@@ -94,8 +94,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 <img 
     align="left"
     alt="GitHub Stats"
-    height="200"
-    style="padding-right: 5px;"
+    height="150"  
+    style="padding-right: 3px;"
     src="https://github-readme-stats.vercel.app/api?username=NiasVL&show_icons=true&theme=highcontrast&include_all_commits=true"
     />
 
