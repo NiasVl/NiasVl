@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Nicolas VIeira, Tenho 17 anos e sou natural de São Paulo.
-Estou concluíndo o ensino médio na E.T.E.C Cidade Tiradentes, com curso técnico em informática. Eu gosto muito de programar e me interesso muito por tecnologia. As vezes compartilho experiências de vida que eu tive no meu prefil do Instagram chamado "[eunicolas_vieira](https://www.instagram.com/eunicolas_vieira?igsh=MXRpNjFudWRqNndhag==)".
+Estou concluíndo o ensino médio na E.T.E.C Cidade Tiradentes, com curso técnico em informática. Eu gosto muito de programar e me interesso muito por tecnologia. As vezes compartilho experiências de vida que eu tive no meu prefil do Instagram chamado "[eunicolas_vieira](https://www.instagram.com/nicolas._.vieira?igsh=MXRpNjFudWRqNndhag==)".
 
 
    <p align="left">
